@@ -1,3 +1,9 @@
+/*
+ * [A]100
+ * [TA's advise]
+ * 1.Good Job!
+ * */
+
 import java.util.Scanner;
 
 class RectangleTesterr {
